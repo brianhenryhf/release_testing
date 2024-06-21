@@ -10,10 +10,10 @@ changelog:
       labels:
     #     - Semver-Major
         - breaking-change
-    # - title: Exciting New Features 🎉
-    #   labels:
-    #     - Semver-Minor
-    #     - enhancement
+    - title: Exciting New Features 🎉
+      labels:
+        # - Semver-Minor
+        - enhancement
     - title: All the things!
       labels:
         - "*"
